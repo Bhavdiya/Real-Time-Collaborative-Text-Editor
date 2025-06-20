@@ -33,7 +33,7 @@ A real-time collaborative text editor built using cutting-edge web technologies 
 ---
 
 ## 📁 Project Structure
-
+```
 /src
 ├── components      # UI components
 ├── pages           # Page components or routing logic
@@ -44,7 +44,7 @@ A real-time collaborative text editor built using cutting-edge web technologies 
 
 /vite.config.ts       # Vite configuration
 /index.html           # HTML template
-
+```
 ---
 
 ## ⚙️ Getting Started
